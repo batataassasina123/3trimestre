@@ -1,10 +1,10 @@
 body{background-color: rgb(75, 75, 75);text-align: justify; font-size: 18px;}
-h1 {text-align: center;background-color: rgb(255, 255, 255);color: rgb(255, 255, 255);}
+h1 {text-align: center;background-color: rgb(255, 255, 255);color: rgb(41, 41, 41);}
 h3 {text-align: justify; color: blanchedalmond;}
-b {color: rgb(255, 255, 255); font-size: 18px;}
+b {color: rgb(0, 0, 0); font-size: 18px;}
 i {color: blueviolet; font-size: 18px;} 
 header footer{background-color: rgb(177, 177, 177);}
-main{background-color: rgb(197, 185, 180);}
+main{background-color: rgb(252, 244, 241);}
 .PRIMEIROPARAGRAFO{text-align: justify;font-size: 18px; border: burlywood;}
 .SEGUNDOPARAGRAFO{text-align: justify; font-size: 18px; border: black;}
 #chaves_metaleiro {width: 5%; height: 5%;}
