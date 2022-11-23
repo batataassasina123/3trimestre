@@ -1,9 +1,9 @@
 body{background-color: rgb(75, 75, 75);text-align: justify; font-size: 18px;}
-h1 {text-align: center;background-color: darkgreen;color: black;}
+h1 {text-align: center;background-color: rgb(255, 255, 255);color: rgb(255, 255, 255);}
 h3 {text-align: justify; color: blanchedalmond;}
 b {color: rgb(255, 255, 255); font-size: 18px;}
 i {color: blueviolet; font-size: 18px;} 
-header footer{background-color: brown;}
+header footer{background-color: rgb(177, 177, 177);}
 main{background-color: rgb(197, 185, 180);}
 .PRIMEIROPARAGRAFO{text-align: justify;font-size: 18px; border: burlywood;}
 .SEGUNDOPARAGRAFO{text-align: justify; font-size: 18px; border: black;}
