@@ -1,6 +1,6 @@
 Colegio estadual joao de farias pioli
 
-nomes:andre e isadora
+nomes:andre,isadora e daniel
 
 serie: 1 ano A
 
